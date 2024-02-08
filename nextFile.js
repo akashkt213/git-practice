@@ -5,3 +5,9 @@ function fight() {
 }
 
 fight();
+
+function sorry() {
+  console.log("Sorry mazak me mara tha..");
+}
+
+sorry();
