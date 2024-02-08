@@ -11,3 +11,7 @@ function sorry() {
 }
 
 sorry();
+
+function fightSettled() {
+  console.log("The fight was settled..");
+}
