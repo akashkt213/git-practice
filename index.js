@@ -11,3 +11,5 @@ function multiply(a, b) {
 console.log(multiply(10, 20));
 
 colsole.log("Arvndjvd");
+
+colsole.log("vdav");
