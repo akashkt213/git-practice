@@ -13,3 +13,6 @@ console.log(
   "so if we try to pull the changes done by someone in the remote we have to first commit these changes and then we can pull those"
 );
 console.log("but to dont want to commit now so we stash it.");
+
+console.log("trying stashing for the second time");
+console.log("just another line");
