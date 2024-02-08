@@ -1,4 +1,4 @@
-console.log("The office is 1 kms from the Vertigo hotel.");
+console.log("The office is 1 kms from the Vertigo hotel and we walk to the office.");
 
 console.log("Went to dlf mall");
 
