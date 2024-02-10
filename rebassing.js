@@ -1,3 +1,5 @@
 const check = "lets check for rebassing";
 
 const temp = "temp is temp";
+
+const a = 10;
